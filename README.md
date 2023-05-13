@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepraj Pagare</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepraj0502&label=Profile%20views&color=0e75b6&style=flat" alt="deepraj0502" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepraj0502" alt="deepraj0502" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepraj0502&label=Profile%20views&color=0ED573&style=flat" alt="deepraj0502" /> </p>
 
 - 🔭 I’m currently working on [Event-Management-Website](https://github.com/Deepraj0502/EventManager)
 
@@ -16,6 +14,8 @@
 - 📫 How to reach me **pagaredeepraj05@gmail.com**
 
 - ⚡ Fun fact **Have a great sense of humour**
+
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=deepraj0502" alt="deepraj0502" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
