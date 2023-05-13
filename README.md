@@ -1,6 +1,6 @@
 Hello 👋
 
-👨 My name is Deepraj Pagare and currently pursuing degree in Bachelor of Engineering (BE) in Computer Engineering.
+👨 My name is Deepraj Pagare and currently pursuing degree in Bachelor of Engineering (BE) in Computer Engineering.\n
 📍 I live in Kamothe,Navi Mumbai,India.
 💻 Currently learning full stack developement using technologies mentioned belowed.
 ⚒️ Have built multiple web projects,check out my repositories.
